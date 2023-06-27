@@ -1,1 +1,2 @@
-![GIF]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/JitseRuurd/ThesisPoster/blob/main/Erosion_over_time.gif)https://github.com/JitseRuurd/ThesisPoster/blob/main/Erosion_over_time.gif)
+#![GIF]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/JitseRuurd/ThesisPoster/blob/main/Erosion_over_time.gif)https://github.com/JitseRuurd/ThesisPoster/blob/main/Erosion_over_time.gif)
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/JitseRuurd/ThesisPoster/blob/main/Erosion_over_time.gif)https://github.com/JitseRuurd/ThesisPoster/blob/main/Erosion_over_time.gif" width="40" height="40" />
