@@ -1,0 +1,1 @@
+![GIF]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/JitseRuurd/ThesisPoster/blob/main/Erosion_over_time.gif)https://github.com/JitseRuurd/ThesisPoster/blob/main/Erosion_over_time.gif)
